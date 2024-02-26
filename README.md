@@ -1,0 +1,2 @@
+# sozluk
+Sözlük Uygulaması Verileri
